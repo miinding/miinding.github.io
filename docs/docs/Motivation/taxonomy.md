@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5. AI RMF Taxonomy
+title: 5. AI Risks and Trustworthiness
 parent: "Part 1: Motivation"
 has_children: true
 ---
