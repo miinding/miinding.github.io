@@ -5,10 +5,10 @@ parent: "Part 1: Motivation"
 has_children: true
 ---
 
-# 5. AI RMF Taxonomy
+# 5. AI Risks and Trustworthiness
 {: .no_toc }
 
-taxonomy subsection>
+Trustworthiness subsection
 
 
 {: .fs-6 .fw-300 }
